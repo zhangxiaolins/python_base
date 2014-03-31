@@ -1,8 +1,14 @@
-commit 91c75534ac36d62b0f15d51e741c370e6f375972
+commit 7c5f74d29a853f9ae6655d981e80a4a4f8147936
+Author: Xiaolin Zhang <zhangxiaolins@gmail.com>
+Date:   Mon Mar 31 20:26:14 2014 +0800
+
+    Adds apiclient rpc db etc
+
+commit e82ff1a98d3adf540eb8c86d2d933813dd771ed9
 Author: Xiaolin Zhang <zhangxiaolins@gmail.com>
 Date:   Fri Mar 28 09:04:15 2014 +0800
 
-    Adds config library.
+    Adds config library
 
 commit f2d971e120a9d9ca0adfcbb92aaa9725aab4693f
 Author: Xiaolin Zhang <zhangxiaolins@gmail.com>

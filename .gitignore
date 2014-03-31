@@ -34,3 +34,17 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Misc.
+*~
+*.swp
+*.log
+.venv
+cover/$
+.essential-venv/$
+doc/source/api$
+.update-venv/$
+essential/versioninfo$
+essential/db/*.sqlite$
+.testrepository/$
+etc/essential.conf.sample$
