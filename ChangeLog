@@ -1,4 +1,11 @@
-commit 7c5f74d29a853f9ae6655d981e80a4a4f8147936
+commit a7c45fc9bc0ccbf0e8d3746d2177a9aa29177787
+Merge: 88916ee 91c7553
+Author: Xiaolin Zhang <zhangxiaolins@gmail.com>
+Date:   Tue Apr 1 11:17:08 2014 +0800
+
+    Merges remote repo
+
+commit 88916eee7f6cdc8f2237864dde21664025e3899d
 Author: Xiaolin Zhang <zhangxiaolins@gmail.com>
 Date:   Mon Mar 31 20:26:14 2014 +0800
 
@@ -9,6 +16,12 @@ Author: Xiaolin Zhang <zhangxiaolins@gmail.com>
 Date:   Fri Mar 28 09:04:15 2014 +0800
 
     Adds config library
+
+commit 91c75534ac36d62b0f15d51e741c370e6f375972
+Author: Xiaolin Zhang <zhangxiaolins@gmail.com>
+Date:   Fri Mar 28 09:04:15 2014 +0800
+
+    Adds config library.
 
 commit f2d971e120a9d9ca0adfcbb92aaa9725aab4693f
 Author: Xiaolin Zhang <zhangxiaolins@gmail.com>
