@@ -1,3 +1,9 @@
+commit 84cd529d07e20d99ae99da2b92cbf80149245a2c
+Author: Xiaolin Zhang <zhangxiaolins@gmail.com>
+Date:   Wed Apr 2 15:59:24 2014 +0800
+
+    Comments out failing testing
+
 commit a7c45fc9bc0ccbf0e8d3746d2177a9aa29177787
 Merge: 88916ee 91c7553
 Author: Xiaolin Zhang <zhangxiaolins@gmail.com>
