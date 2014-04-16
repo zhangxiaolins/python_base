@@ -90,18 +90,6 @@ from essential import jsonutils
 from essential import log as logging
 
 
-policy_opts = [
-    cfg.StrOpt('policy_file',
-               default='policy.json',
-               help=_('JSON file containing policy')),
-    cfg.StrOpt('policy_default_rule',
-               default='default',
-               help=_('Rule enforced when requested rule is not found')),
-]
-
-CONF = cfg.CONF
-CONF.register_opts(policy_opts)
-
 LOG = logging.getLogger(__name__)
 
 _checks = {}
